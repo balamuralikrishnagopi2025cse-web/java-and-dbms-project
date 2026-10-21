@@ -1,0 +1,5 @@
+
+@echo off
+cd /d "%~dp0"
+java -jar library_management_system.jar
+pause
